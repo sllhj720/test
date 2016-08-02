@@ -1,4 +1,4 @@
-Git is a distributed version control system.
+﻿Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
@@ -14,6 +14,6 @@ origin https://github.com/yuquan0821/demo.git (push)
 
 下面把它换成ssh方式的。
 
-1. git remote rm origin
-2. git remote add origin git@github.com:yuquan0821/demo.git
-3. git push origin
+1. git remote rm origin.
+2. git remote add origin git@github.com:yuquan0821/demo.git.
+3. git push origin.
