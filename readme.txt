@@ -17,4 +17,4 @@ origin https://github.com/yuquan0821/demo.git (push)
 1. git remote rm origin.
 2. git remote add origin git@github.com:yuquan0821/demo.git.
 3. git push origin.
-Creating a new branch is quick.
+Creating a new branch is quick & simple.
